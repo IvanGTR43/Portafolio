@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+            <meta http-equiv="x-ua-compatible" content="IE=edge" />
+            <meta content="text/html; charset=UTF-8" http-equiv="content-type" /><link type="text/css" rel="stylesheet" href="/PTSC/IdcSiat/javax.faces.resource/theme.css.jsf?ln=primefaces-satgobmx" /><link type="text/css" rel="stylesheet" href="/PTSC/IdcSiat/javax.faces.resource/primefaces.css.jsf?ln=primefaces" /><script type="text/javascript" src="/PTSC/IdcSiat/javax.faces.resource/jquery/jquery.js.jsf?ln=primefaces"></script><script type="text/javascript" src="/PTSC/IdcSiat/javax.faces.resource/primefaces.js.jsf?ln=primefaces"></script>
+        <link href="./resources/css/default.css" rel="stylesheet" type="text/css" />
+        <script type="text/javascript" src="/PTSC/IdcSiat/resources/js/general.js"></script>
+        <script type="text/javascript" src="/PTSC/IdcSiat/resources/js/back.js"></script>
+        <title></title></head>
+<form id="error_panel_form" name="error_panel_form" method="post" action="/PTSC/IdcSiat/Error.jsf" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="error_panel_form" value="error_panel_form" />
+<table id="error_panel_form:registroPanelGrid" class="panel-register ancho100">
+<thead>
+<tr><th colspan="1" scope="colgroup">
+                <div class="header-register"><img id="error_panel_form:j_idt8" src="./resources/images/sat.jpg" alt="" />
+                    <br /><label id="error_panel_form:j_idt10" class="ui-outputlabel txtLabel"></label>
+                </div></th></tr>
+</thead>
+<tbody>
+<tr>
+<td><div id="error_panel_form:j_idt12" class="ui-messages ui-widget" aria-live="polite"></div></td>
+</tr>
+</tbody>
+</table>
+<div id="error_panel_form:errorPanel" class="ui-panel ui-widget ui-widget-content ui-corner-all txtLabel" style="margin:0 auto; width:320px; height:auto;"><div id="error_panel_form:errorPanel_header" class="ui-panel-titlebar ui-widget-header ui-helper-clearfix ui-corner-all"><span class="ui-panel-title">Autenticación RFC</span></div><div id="error_panel_form:errorPanel_content" class="ui-panel-content ui-widget-content">
+            <!--p:outputLabel value="ERROR DE SEGURIDAD"/--><label id="error_panel_form:j_idt14" class="ui-outputlabel">ERROR DE SEGURIDAD</label></div></div><script id="error_panel_form:errorPanel_s" type="text/javascript">PrimeFaces.cw('Panel','widget_error_panel_form_errorPanel',{id:'error_panel_form:errorPanel'});</script><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="8kjvw0twEqe0rCw5IFQXhb7+wpU7ev1xauy/DeIwB8oGiHVY/L9PjbuE6oUoZuVyGBW4iu+TfALWuCDEtYpPtn14xTfMUTqMcPLObpvO097SXxyJrut8+YMHsBfrLol1U3Dr3oEj1V5NzL5rj252fllArhopfCCssguBmK4Nr+6m9rtKcrd7BOSf6ybRIEMWbx+EW4IdYt2A/8xYyLS8S78T42vr3Qfi5euEj5zRAQ3gSh6fUr7r8blTA0bOvlIw0FVQ1APYUJHM5MaoyRJj1b1H5y+FQVAixqikf3dojeV73jBgEL66+KuJNxL2sNWbVLmPAHBB609PvmYzvsj1kxdAFQz810hcFsOHNL5RmqlWskt2G8cYauZVFEu6UY51837JdHPr8A91xu/+IdphaukMTihgwB0fZCpctd98Kux0N87hkC63zpQZYq6QoROe2veGWJL94p4AM4TKFuxzSZVSr6tS8hUF1wAeqcIJwrvqQyQZjvL05KmoEulh49JUJtl6JwP80Qs3yRYmb0zbvmXbUZkUgwbJaYcC4u95yCtg4Y0WzEfa7jPif/4Cb8wN/886USEXGY8NnsNH3/52zG6BXXnGG/tb/LKTuK99J8zeY9O7Xb+EzqpA9ek1EIoX3jvzLlouid1w6jrekF9zLwN2nAH2k3uqD0qIZieIA1GM65+Kxt0A9o5/OFfX3EMW7eLVs2Kkb+ZfiFox6FkRYib/0vjHJmZXerrhhNn9xSfIaOuTA/+LNbtAcW/aUUwlCfpXZIoucl/mkXWTZxt3s0ewkUoQJaoAllXPY0DOz+68i4Gvr8UgbRv7O6Pb/02KCQPf+6Y87qXKWrIVDEkAoD95EEihM7z+59+AYd/52IlcnOgAVXUoxPYK5Wo1X2yoV5R3OkNFbZJ5pb5AiJ8Lhjfs+BMdHNl4S8+aePotcQ5KbrFlKknScawpIsXzYAMkTGVvF2Dx4WeWzwZPDp8octuEApxgbKTRzL8WhEVjNWxull4xf5vvn1RQv7Z+sA7w" autocomplete="off" />
+</form>
+</html>
